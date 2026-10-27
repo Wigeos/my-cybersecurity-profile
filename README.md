@@ -10,7 +10,7 @@ _Hello Everyone! my name is John, and I am a sophomore at UTSA studying cybersec
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://github.com/Wigeos)
-[![LinkedIn](https://www.linkedin.com/in/john-watson-b2841a447/)
+[[GitHub](https://github.com/Wigeos)
+[[LinkedIn](https://www.linkedin.com/in/john-watson-b2841a447/)
 
 _"Let's get to work!"_
